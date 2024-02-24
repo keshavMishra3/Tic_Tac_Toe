@@ -13,7 +13,7 @@
     </ul>
 
   <h3>Usage</h3>
-    <p>To play the game, simply open the <code>index.html</code> file in a web browser that supports HTML5.</p>
+    <p>To play the game, simply open the link https://keshavmishra3.github.io/Tic_Tac_Toe/  in a web browser that supports HTML5.</p>
 
   <h3>Instructions</h3>
     <ol>
