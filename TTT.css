@@ -85,9 +85,7 @@ html,body{
     height:2vw;
     width:10vw;
     border-radius: 7px;
-    /* position: absolute;
-    top:550px;
-    left:750px; */
+    
     background-color:#d35400 ;
 }
 @media (max-width:426px){
@@ -164,14 +162,11 @@ html,body{
        
         background-color:#d35400 ;
     }
-    #messageId{
+     #messageId{
         font-size: 6vw;
       
-    }
-    .heading{
-        position: relative;
-        left:13vw
-    }
+    } 
+   
 }
 
 @media screen and (min-width:426px) and (max-width:616px){
@@ -247,13 +242,7 @@ html,body{
         color:  #008080 ;
         font-size: 8vw;
     }
-    #messageId{
-        font-size: 5vw;
-    }
-    .heading{
-        position: relative;
-        left:10vw
-    }
+  
       
 }
 
@@ -415,11 +404,7 @@ html,body{
         color:  #008080 ;
         font-size: 4vw;
     }
-    .heading{
-        position: relative;
-        left:2vw
-        
-    }
+    
 }
 
 
@@ -496,9 +481,5 @@ html,body{
         color:  #008080 ;
         font-size: 3vw;
     }
-    .heading{
-        position: relative;
-        left:0vw;
-        
-    }
+    
 }
