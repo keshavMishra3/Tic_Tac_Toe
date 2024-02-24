@@ -500,7 +500,7 @@ html,body{
     }
     .heading{
         position: relative;
-        left:0vw
+        left:0vw;
         
     }
 }
